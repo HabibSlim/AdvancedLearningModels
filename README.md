@@ -12,7 +12,7 @@ This project uses the following external dependencies:
 - pandas and numpy
 
 # Usage
-In order to reproduce our results, please access the "submission 1" Jupyter notebook (for the KRR submission), and the "submission 2" Jupyter notebook (for the bagged KRR submission. For the latter, Gram matrices have been pre-computed and compressed into the ./data/ folder since we re-used them quite frequently, this also means that the second script will produce the CSV submission a lot faster that the first script.
+In order to reproduce our results, please access the "submission 1" Jupyter notebook (for the KRR submission), and the "submission 2" Jupyter notebook (for the bagged KRR submission). For the latter, Gram matrices have been pre-computed and compressed into the ./data/ folder since we re-used them quite frequently, this also means that the second script will produce the CSV submission a lot faster that the first script.
 
 # Report
 Click [HERE](report.pdf) to download the final report.
