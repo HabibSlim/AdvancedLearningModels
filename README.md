@@ -4,7 +4,7 @@
 </h1>
 
 [![Python](https://img.shields.io/badge/Python-3.8.5-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Scipy](https://img.shields.io/badge/Scipy-1.4.1-blue?logo=scipy&logoColor=white)](https://www.python.org/)
+[![Scipy](https://img.shields.io/badge/Scipy-1.4.1-blue?logo=scipy&logoColor=white)](https://www.scipy.org/)
 
 \[[Report](report.pdf)\]
 
